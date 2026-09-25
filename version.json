@@ -1,5 +1,6 @@
 {
   "version": "1.5",
   "date": "25 September 2026, 20:00 WIB",
+  "changelog": "- Perbaikan bug crash saat loading\n- Tambahan fitur spawn kendaraan\n- Optimasi FPS",
   "message": "Update terbaru KOJOT MODS tersedia! Silahkan update menggunakan KOJOT MANAGER"
 }
