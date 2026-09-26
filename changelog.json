@@ -2,7 +2,7 @@
   {
     "version": "v1.5",
     "date": "20 May 2026",
-    "status": "UP TO DATE",
+    "status": "UPDATE AVAILABLE,
     "changes": [
       "Added Webhook Tester Tools",
       "Bug fixes for spawn script"
