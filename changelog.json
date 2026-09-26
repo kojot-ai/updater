@@ -1,0 +1,18 @@
+[
+  {
+    "version": "v1.2",
+    "date": "26 September 2026",
+    "changes": [
+      "Menambahkan fitur Tools Webhook Tester",
+      "Menambahkan Config Editor UI.ini"
+    ]
+  },
+  {
+    "version": "v1.2",
+    "date": "26 September 2026",
+    "changes": [
+      "Updater improvements",
+      "Script fixes"
+    ]
+  }
+]
