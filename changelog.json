@@ -2,10 +2,10 @@
   {
     "version_old": "v1.1",
     "version_new": "v1.2",
-    "date": "22 Mei 2026",
+    "date": "26 Sept 2026",
     "changes": [
-      "Penambahan fitur video preview",
-      "Penambahan sound effect"
+      "Update Mode AI",
+      "Pengurangan damage senjata Mode AI AUTO"
     ],
     "links": {
       "chaos": "https://www.youtube.com/watch?v=3b5_Ru6X8pY&t=67s",
