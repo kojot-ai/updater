@@ -1,18 +1,11 @@
 [
   {
-    "version": "v1.2",
-    "date": "26 September 2026",
+    "version": "v1.0.5",
+    "date": "20 Mei 2026",
+    "status": "UPDATE TERSEDIA",
     "changes": [
       "Menambahkan fitur Tools Webhook Tester",
-      "Menambahkan Config Editor UI.ini"
-    ]
-  },
-  {
-    "version": "v1.2",
-    "date": "26 September 2026",
-    "changes": [
-      "Updater improvements",
-      "Script fixes"
+      "Perbaikan bug spawn"
     ]
   }
 ]
