@@ -4,8 +4,10 @@
     "date": "26 September 2026",
     "status": "UPDATE AVAILABLE",
     "changes": [
-      "Menambahkan fitur Tools Webhook Tester",
-      "Perbaikan bug spawn"
+      "UPDATE MODE AI LEBIH SMOOTH",
+      "DARAH PLAYER BISA DIATUR LEWAT UI.ini"
+      "UPDATE AKURASI MODE AI LEWAT UI.ini"
+      "UPDATE DAMAGE SENJATA MODE AI LEWAT UI.ini"
     ]
   }
 ]
