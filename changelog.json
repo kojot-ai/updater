@@ -1,8 +1,8 @@
 [
   {
-    "version": "v1.2",
+    "version_old": "v1.1",
+    "version_new": "v1.2",
     "date": "22 Mei 2026",
-    "status": "UPDATE AVAILABLE",
     "changes": [
       "Penambahan fitur video preview",
       "Penambahan sound effect"
