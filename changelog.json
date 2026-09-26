@@ -1,11 +1,19 @@
 [
   {
-    "version": "v1.5",
-    "date": "20 May 2026",
-     "status": "UPDATE AVAILABLE",
+    "version": "v1.0.6",
+    "date": "22 Mei 2026",
+    "status": "UPDATE AVAILABLE",
     "changes": [
-      "Added Webhook Tester Tools",
-      "Bug fixes for spawn script"
-    ]
+      "Penambahan fitur video preview",
+      "Penambahan sound effect"
+    ],
+    "links": {
+      "chaos": "https://link-untuk-chaos.com",
+      "effect": "https://link-untuk-effect.com",
+      "battle": "https://link-untuk-battle.com",
+      "car": "https://link-untuk-car.com",
+      "utilities": "https://link-untuk-utilities.com",
+      "addon_peds": "https://link-untuk-addon.com"
+    }
   }
 ]
