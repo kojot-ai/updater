@@ -2,7 +2,7 @@
   {
     "version": "v1.3",
     "date": "26 September 2026",
-    "status": "UPDATE TERSEDIA",
+    "status": "UPDATE AVAILABLE",
     "changes": [
       "Menambahkan fitur Tools Webhook Tester",
       "Perbaikan bug spawn"
