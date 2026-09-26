@@ -1,13 +1,11 @@
 [
   {
     "version": "v1.3",
-    "date": "26 September 2026",
+    "date": "20 May 2026",
     "status": "UPDATE AVAILABLE",
     "changes": [
-      "UPDATE MODE AI LEBIH SMOOTH",
-      "DARAH PLAYER BISA DIATUR LEWAT UI.ini"
-      "UPDATE AKURASI MODE AI LEWAT UI.ini"
-      "UPDATE DAMAGE SENJATA MODE AI LEWAT UI.ini"
+      "Added Webhook Tester Tools",
+      "Bug fixes for spawn script"
     ]
   }
 ]
