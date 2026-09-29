@@ -1,11 +1,14 @@
 [
   {
     "version_old": "v1.3",
-    "version_new": "v1.6",
+    "version_new": "v1.7",
     "date": "29 Sept 2026",
     "changes": [
-      "Update Mode AI Lebih Baik",
-      "Menghapus jarak damage pada MODE AI",
+      "Damage Reduction sekarang bisa diatur 0–100 lewat UI.ini (100 = 100% pengurangan damage)",
+      "Mode Auto sekarang lebih smooth dan nggak kaku",
+      "Tidak langsung mati saat jatuh dari tebing",
+      "Menghilangkan senjata yang jatuh di tanah",
+      "Mode Patrol lebih stabil dan mengurangi risiko crash/berhenti"
     ],
     "links": {
       "chaos": "https://www.youtube.com/watch?v=3b5_Ru6X8pY&t=67s",
