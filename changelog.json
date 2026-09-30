@@ -6,7 +6,7 @@
     "changes": [
       "Damage Reduction sekarang bisa diatur 0–100 lewat UI.ini (100 = 100% pengurangan damage)",
       "Max spawn NPC menjadi 80",
-      "Mode Auto sekarang lebih smooth dan nggak kaku",
+      "Fix error pada v1.6",
       "Tidak langsung mati saat jatuh dari tebing",
       "Menghilangkan senjata yang jatuh di tanah",
       "Mode Patrol lebih stabil dan mengurangi risiko crash/berhenti"
