@@ -1,6 +1,6 @@
 {
   "version": "1.7",
   "date": "29 September 2026, 23:19 WIB",
-  "changelog": "- Damage Reduction sekarang bisa diatur 0–100 lewat UI.ini (100 = 100% pengurangan damage)\n- Tidak mati saat jatuh dari tebing\n- Menghilangkan senjata yang jatuh di tanah\n- Mode Auto sekarang lebih smooth dan nggak kaku\n- Mode Patrol lebih stabil dan mengurangi risiko crash/berhenti",
+  "changelog": "- Damage Reduction sekarang bisa diatur 0–100 lewat UI.ini (100 = 100% pengurangan damage)\n- Tidak mati saat jatuh dari tebing\n- Menghilangkan senjata yang jatuh di tanah\n- Fix error crash v1.6\n- Mode Patrol lebih stabil dan mengurangi risiko crash/berhenti",
   "message": "Update terbaru KOJOT MODS tersedia! Silahkan update menggunakan updater.exe"
 }
